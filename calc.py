@@ -14,3 +14,6 @@ def compute(expression):
     else:
         print('unknown operator!')
         return None
+
+
+# this is some random text to test merge conflict
