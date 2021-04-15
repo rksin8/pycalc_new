@@ -13,6 +13,7 @@ def compute(expression):
         return num0 / num1
     else:
         print('unknown operator!')
+        print("basic edit")
         return None
 
 # this and that
