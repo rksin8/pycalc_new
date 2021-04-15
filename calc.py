@@ -13,7 +13,14 @@ def compute(expression):
         return num0 / num1
     else:
         print('unknown operator!')
+        print("basic edit")
         return None
 
 
 # this is some random text to test merge conflict
+# this and that
+# use module x for y
+# :wq
+
+
+# add this line to test merge confilt 
