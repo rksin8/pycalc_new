@@ -14,3 +14,8 @@ def compute(expression):
     else:
         print('unknown operator!')
         return None
+
+# this and that
+# use module x for y
+# :wq
+
